@@ -1,0 +1,45 @@
+Rafael Alvarez
+Desarrollador Fullstack & Planificador de Proyectos [Tu Correo] | [Tu Teléfono] | [Tu GitHub/LinkedIn] | Lara, Venezuela
+
+Sobre mí
+Soy un desarrollador fullstack enfocado en la optimización de recursos, el máximo rendimiento del software y la creación de soluciones eficientes, legibles y de alta mantenibilidad. Cuento con experiencia práctica aplicando estándares tecnológicos avanzados en compilación y desarrollo multiplataforma, diseñando e integrando sistemas robustos de principio a fin. Mi perfil se complementa con una sólida capacidad para la planificación proactiva y el liderazgo de proyectos, asegurando que cada desarrollo cuente con una arquitectura limpia, modular y escalable desde su concepción.
+
+Con un dominio versátil que abarca tecnologías de backend, frontend y bases de datos, gestiono la persistencia de datos mediante sistemas SQL y NoSQL como PostgreSQL y MySQL. En el ámbito del desarrollo multiplataforma y de sistemas, implemento soluciones nativas de alto impacto utilizando C, C++, Java (JavaFX) y Flutter con Dart. Para entornos web y runtimes orientados a la asincronía, aplico de manera fluida herramientas como Node.js, PHP con AJAX, TypeScript, JavaScript, Vue.js y React, apoyado firmemente en herramientas esenciales de control de versiones y entornos de alto rendimiento como Git y GitHub.
+
+Actualmente curso el Técnico Superior Universitario (TSU) en Informática y continúo expandiendo mis competencias de forma continua, con la meta planificada de iniciar los estudios de Ingeniería en Informática el próximo año.
+
+Áreas de Expertise y Stack Tecnológico
+Liderazgo & Gestión: Planificación proactiva de proyectos, Liderazgo de equipos técnicos, Arquitectura de software modular.
+
+Ecosistema Multiplataforma & Sistemas: C, C++, Java (JavaFX), Dart (Flutter).
+
+Desarrollo Fullstack (Web & Async): * Backend & Runtimes: Node.js, PHP (AJAX).
+
+Frontend: Vue.js, React, TypeScript, JavaScript (ES6+), HTML5, CSS3.
+
+Bases de Datos & Persistencia: PostgreSQL, MySQL.
+
+Herramientas & Entorno: Git, GitHub, entornos Linux avanzados.
+
+Proyectos Destacados
+ChevereSound | Audio Player Hi-Fi Multiplataforma
+Diseño, planificación y arquitectura de un reproductor de audio de alta fidelidad nativo enfocado en entornos multiplataforma (Linux, Android, Windows) desarrollado con Flutter/Dart y lógica de bajo nivel en C++.
+
+Optimización del motor de audio para garantizar el menor consumo de recursos del sistema y la máxima fidelidad en el procesamiento.
+
+Sistema de Gestión de Inventario Tecnológico
+Desarrollo integral de una solución modular aplicando Programación Orientada a Objetos (POO) avanzada y un manejo estricto de flujos asíncronos en entornos web.
+
+Implementación de estándares de desarrollo limpio, reduciendo la complejidad lógica del código para maximizar su legibilidad y eficiencia.
+
+Sistema Automatizado de Gestión con Control de Roles
+Coordinación y diseño de la arquitectura para un sistema empresarial con dashboards interactivos y módulos de reportería de alta velocidad.
+
+Creación de un backend seguro y optimizado para la gestión eficiente de múltiples niveles de acceso de usuarios concurrentes.
+
+Educación y Trayectoria Académica
+Técnico Superior Universitario en Informática (En curso)
+
+Ingeniería en Informática (Planificado para inicio en 2027)
+
+Capacitación Continua: Especialización en patrones de diseño arquitectónico, optimización de sistemas y estándares de compilación multiplataforma por cuenta propia.
