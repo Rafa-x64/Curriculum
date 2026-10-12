@@ -1,4 +1,3 @@
-import "bootstrap/scss/bootstrap.scss";
 import "../css/styles.css";
 import {
   createIcons, Mail, Phone, Printer, MapPin, ArrowUpRight, ArrowLeft, ArrowRight,
@@ -34,6 +33,18 @@ $("#timeline").innerHTML = tl
   .join("");
 
 const projects = [
+  {
+    n: "excel-pg-migrator", sub: "CLI de Migración de Datos Excel a PostgreSQL", icon: "database",
+    grad: "linear-gradient(135deg,#15803d,#064e3b)",
+    d: "Herramienta CLI interactiva para la migración, validación y transformación automatizada de archivos Excel (.xlsx) hacia PostgreSQL.",
+    b: [
+      "Motor de mapeo heurístico (Levenshtein + Jaccard) con resolución de Foreign Keys mediante claves jerárquicas y ordenamiento topológico.",
+      "Auditoría visual previa mediante generación de Excel intermedio en esquema 1:1 sin tocar la base de datos.",
+      "Inserción transaccional por lotes (500 filas/lote), modo atómico, dry-run, auto-instanciación desde plantillas y sincronización automática de secuencias seriales."
+    ],
+    t: ["TypeScript", "Node.js", "PostgreSQL", "pnpm", "Commander", "Zod", "ExcelJS"],
+    r: "https://github.com/Rafa-x64/excel-pg-migrator",
+  },
   {
     n: "Sinergy", sub: "Sistema de Gestión de Mantenimiento Industrial", icon: "factory",
     grad: "linear-gradient(135deg,#0f766e,#164e63)",
