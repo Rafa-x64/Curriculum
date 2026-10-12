@@ -34,7 +34,7 @@ $("#timeline").innerHTML = tl
 
 const projects = [
   {
-    n: "excel-pg-migrator", sub: "CLI de Migración de Datos Excel a PostgreSQL", icon: "database",
+    n: "pg-excel-migrator", sub: "CLI de Migración de Datos Excel a PostgreSQL", icon: "database",
     grad: "linear-gradient(135deg,#15803d,#064e3b)",
     d: "Herramienta CLI interactiva para la migración, validación y transformación automatizada de archivos Excel (.xlsx) hacia PostgreSQL.",
     b: [
@@ -43,7 +43,7 @@ const projects = [
       "Inserción transaccional por lotes (500 filas/lote), modo atómico, dry-run, auto-instanciación desde plantillas y sincronización automática de secuencias seriales."
     ],
     t: ["TypeScript", "Node.js", "PostgreSQL", "pnpm", "Commander", "Zod", "ExcelJS"],
-    r: "https://github.com/Rafa-x64/excel-pg-migrator",
+    r: "https://github.com/Rafa-x64/pg-excel-migrator",
   },
   {
     n: "Sinergy", sub: "Sistema de Gestión de Mantenimiento Industrial", icon: "factory",
